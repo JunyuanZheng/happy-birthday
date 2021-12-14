@@ -1,9 +1,9 @@
 {
   "greeting": "你好",
   "name": "雪雅同学",
-  "greetingText": "今天是你的27岁的生日哈又长大了一岁呢！",
+  "greetingText": "今天是你的27岁的生日哈！又长大了一岁呢！",
   "wishText": "祝你新的一岁心想事成，福如东海，寿比南山! ;)",
-  "imagePath": "img/photo.png",
+  "imagePath": "img/photo.jpg",
   "text1": "今天是你的生日，我滴祖国！！！ （对不起进错片场了...）",
   "textInChatBox": "宝贝神日快乐哈！bla bla bla...",
   "sendButtonLabel": "发送",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "破壳日快乐!",
-  "outroText": "希望你新的一岁学业顺利，多发论文",
-  "replayText": "",
-  "outroSmiley": "爱你哦！:)"
+  "outroText": "希望我的宝贝你新的一岁：学业顺利，多发论文，学会写代码！更最重要的是一定要天天开心哦！",
+  "replayText": "爱你！---小郑",
+  "outroSmiley": ":)"
 }
